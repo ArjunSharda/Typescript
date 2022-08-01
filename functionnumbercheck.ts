@@ -8,9 +8,9 @@ function numbercheck (num1, num2) {
       console.log("Sorry, both numbers do not match.");
     }
     finally {
-      console.log("---------------------------------")
+      console.log("---------------------------------");
     }
   }
 }
 
-numbercheck(5100, 500)
+numbercheck(5100, 500);
